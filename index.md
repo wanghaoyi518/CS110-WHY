@@ -2,7 +2,7 @@
 ### <sub>Email: <haw082@ucsd.edu> </sub>
 ### <sub>Phone: 213-706-8604 </sub>
 ### <sub>Personal Github Home Page: https://github.com/wanghaoyi518 </sub>
-![photo](/assets/images/photo.jpg)
+![photo](/Related_Documents/photo.jpg)
 ## Basics
 ### Male, born in 2002.
 ## Education
