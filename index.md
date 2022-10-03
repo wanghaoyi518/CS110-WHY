@@ -22,7 +22,7 @@
   - Directed material management of the team and other operations.
   - Gained experience in CAD Drawing, using electrical components, algorithm design and program implementation, teamwork and communication.
 - ### Hong Kong Center for Construction Robotics, 2022.6-2022.8
-  - #### Intern research assistance, Co-founder of the startup team
+  - #### Intern research assistant, Co-founder of the startup team
   - Aiming at developing a epoxy flooring robot and put the product into commercial applications.
   - In charge of software development of the team
   - Still work remotely now due to the exchange to UCSD.
