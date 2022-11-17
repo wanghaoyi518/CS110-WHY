@@ -1,6 +1,6 @@
 # **Wang Haoyi**
-### <sub>Email: <haw082@ucsd.edu> </sub>
-### <sub>Phone: 213-706-8604 </sub>
+### <sub>Email: <haw082@ucsd.edu> <hwangef@connect.ust.hk> </sub>
+### <sub>Phone: +1 213-706-8604, +852 6671 4314 </sub>
 ### <sub>Personal Github Home Page: https://github.com/wanghaoyi518 </sub>
 ![photo](/Related_Documents/photo.jpg)
 ## Basics
@@ -12,7 +12,7 @@
 - ### HKUST Undergraduate Research Opportunity Program, Hong Kong
   - #### Undergraduate Researcher, 2021.6 to 2022.8
   - Independent research of the project "Development of network communication system for locomotion robots" under the supervision of Professor Man WONG and Ling SHI, involving design and conduct experiments, analyze data, build mathematical models and fit data, algorithm design and program implementation, write meeting minutes, write reports and papers.
-  - Gained Knowledge in Computer Science and Robotics fields, such as  [programming](#programming-skills-list).
+  - Gained Knowledge in Computer Science and Robotics fields.
   - Cultivated independent research ability, familiar with the whole research process, and have experience on each step.
   - Gained ability to communicate and learn from professors and postgraduate students in the same research area.
 - ### HKUST Robomaster Robotics competition team, Hong Kong
@@ -26,7 +26,7 @@
   - Aiming at developing a epoxy flooring robot and put the product into commercial applications.
   - In charge of software development of the team
   - Still work remotely now due to the exchange to UCSD.
-## Programming Skills List
+<!-- ## Programming Skills List
 - [x] C and C++
 - [x] Java
 - [x] Python
@@ -39,5 +39,5 @@ int main()
     cout<<"Hello UCSD and nice to meet you all!"<<endl;
     return 0;
 }
-```
+``` -->
 ## Hobbies  [(see here)](/hobbies.md)
